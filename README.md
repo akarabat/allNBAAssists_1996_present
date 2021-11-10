@@ -4,6 +4,8 @@ A dataset of every assist in the NBA since basketball-reference.com began tracki
 
 raw dataset not currently available. Too large for Github and its throwing me some weird errors that I don't understand yet. Will update.
 
+NOTE - if you want this just message me on reddit (karabou_1) and I'll happily send it to you in a dropbox or something, it's not even a big file it's just too big for github and I don't feel like dealing with it
+
 
 The raw dataset is reproducable from the programs, but it can over 2 hours to run
 
