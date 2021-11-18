@@ -16,4 +16,4 @@ files run 1. findAllGames.py (prints out allgames.txt, which is included, so thi
 
 3. combines all of the allassists_##.txt programs, reads them in and outputs assistfreq_all.csv (included) which lists the number of assists from player A to player B for any 2 players that had at least one assist in that time
 
-4. niceprint.py prints tables so I can shitpost on reddit
+4. niceprint.py prints tables 
